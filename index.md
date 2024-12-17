@@ -13,6 +13,8 @@ The second map is looking at Middlesex county for the percent of white people. T
 
 
 <iframe src="Maps (1).png" height="855" width="95%"></iframe>
+<iframe src="MedianIncome_Map.png" height="855" width="95%"></iframe>
+<iframe src="Percent_White.png" height="855" width="95%"></iframe>
 
 
 You can explore this map [as its own web page here](NoDrive.html).
